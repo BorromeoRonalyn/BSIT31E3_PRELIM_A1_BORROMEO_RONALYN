@@ -1,4 +1,5 @@
 ﻿// Commit 2: Added loop structure
+// Commit 3: Implemented FizzBuzz logic.
 
 for (int i = 1; i <= 100; i++)
 {
