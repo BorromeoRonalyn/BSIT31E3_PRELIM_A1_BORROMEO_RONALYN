@@ -1,4 +1,6 @@
-﻿for (int i = 1; i <= 100; i++)
+﻿// Commit 2: Added loop structure
+
+for (int i = 1; i <= 100; i++)
 {
     if (i % 3 == 0 && i % 5 == 0)
     {
